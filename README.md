@@ -1,6 +1,3 @@
-# dotfiles
-oh shit its almost 3am ill do this later
-=======
 # Personal Dotfiles
 
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
@@ -8,9 +5,3 @@ oh shit its almost 3am ill do this later
 - Multiplexer: [Tmux](https://github.com/tmux/tmux)
 - PDE: [Neovim](https://github.com/neovim/neovim)*i love vim*
 - Color Theme: [OneDarkPro](https://github.com/olimorris/onedarkpro.nvim) 
-
-
-
-
-
->>>>>>> 7cf1c0d (readme)
