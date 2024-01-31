@@ -119,6 +119,11 @@ _G.packer_plugins = {
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/ThePrimeagen/harpoon"
   },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/home/ryan/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -133,11 +138,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
-  },
-  ["material.nvim"] = {
-    loaded = true,
-    path = "/home/ryan/.local/share/nvim/site/pack/packer/start/material.nvim",
-    url = "https://github.com/marko-cerovac/material.nvim"
   },
   ["nvim-autopairs"] = {
     config = { "\27LJ\2\2@\0\0\2\0\3\0\a6\0\0\0'\1\1\0B\0\2\0029\0\2\0004\1\0\0B\0\2\1K\0\1\0\nsetup\19nvim-autopairs\frequire\0" },
@@ -225,6 +225,11 @@ _G.packer_plugins = {
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
   },
+  ["transparent.nvim"] = {
+    loaded = true,
+    path = "/home/ryan/.local/share/nvim/site/pack/packer/start/transparent.nvim",
+    url = "https://github.com/xiyaowong/transparent.nvim"
+  },
   undotree = {
     loaded = true,
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/undotree",
@@ -244,11 +249,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/ryan/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
     url = "https://github.com/christoomey/vim-tmux-navigator"
-  },
-  ["vim-visual-multi"] = {
-    loaded = true,
-    path = "/home/ryan/.local/share/nvim/site/pack/packer/start/vim-visual-multi",
-    url = "https://github.com/mg979/vim-visual-multi"
   }
 }
 
