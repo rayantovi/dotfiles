@@ -25,7 +25,8 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "-5"
-
-
-
-vim.opt.hlsearch = true
+vim.opt.clipboard = ""
+vim.opt.showmode = false
+-- vim.api.nvim_set_hl(0, 'PmenuSel', { bg = 'white', fg = 'black', bold = true })
+vim.g.loaded_netrwPlugin = 1
+vim.g.loaded_netrw = 1

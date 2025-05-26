@@ -5,8 +5,13 @@ return {
         insert_mappings = false,
         start_in_insert= true,
         hide_numbers = true,
-        direction = "float"
+        direction = "float",
+        float_opts = {
+            border =  'curved' ,
+            title_pos = 'center',
+        },
 
     }}
 
 }
+
